@@ -1,0 +1,41 @@
+Q1) How tall is the Eiffel Tower (to tip)?
+  A - 300m
+  B - 324m
+  C - 325m
+  D - 347m
+
+----------------
+
+Q2) What is the Statue of Liberty mostly made of?
+  A - Steel
+  B - Green polymer
+  C - Copper
+  D - Cast iron
+
+----------------
+
+Q3) Why is the sky blue?
+  A - Blue light gets scattered more
+  B - Red light gets reflected back at the Sun
+  C - Our brains interpret the light that way
+  D - It's mostly ultraviolet, which we can see as purple or blue
+
+----------------
+
+Q4) How long does it take for the Earth to rotate around the Sun?
+  A - 365 days
+  B - 365.246 days
+  C - 366 days
+  D - 365.24 days
+
+----------------
+
+Q5) What is the longest river in the UK?
+  A - River Thames
+  B - River Wye
+  C - River Severn
+  D - River Trent
+
+----------------
+
+Your Answers:
