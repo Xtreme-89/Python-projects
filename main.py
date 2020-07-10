@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 is_male = True
 is_tall = False
 
@@ -55,3 +56,7 @@ friends = ["Jim", "Karen", "Emma", "Alexandria", "Liz", "Ellie"]
 for friend in friends:
     print (friend)
     
+=======
+
+print(3 +4.5)
+>>>>>>> ab1d0e7820f4a8f97b5b83024948417c6bbadd0b
